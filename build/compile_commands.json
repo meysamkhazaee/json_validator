@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/meysam/workspace/codes/personal/json_validator/build",
+  "command": "/usr/bin/g++  -I/home/meysam/.cache/cpm/nlohmann_json/798e0374658476027d9723eeb67a262d0f3c8308/include -I/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src -g -o CMakeFiles/json_process.dir/json_process.cpp.o -c /home/meysam/workspace/codes/personal/json_validator/json_process.cpp",
+  "file": "/home/meysam/workspace/codes/personal/json_validator/json_process.cpp"
+},
+{
+  "directory": "/home/meysam/workspace/codes/personal/json_validator/build",
+  "command": "/usr/bin/g++  -I/home/meysam/.cache/cpm/nlohmann_json/798e0374658476027d9723eeb67a262d0f3c8308/include -I/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src -g -o CMakeFiles/main.dir/main.cpp.o -c /home/meysam/workspace/codes/personal/json_validator/main.cpp",
+  "file": "/home/meysam/workspace/codes/personal/json_validator/main.cpp"
+},
+{
+  "directory": "/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json_schema_validator-build",
+  "command": "/usr/bin/g++  -I/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src -I/home/meysam/.cache/cpm/nlohmann_json/798e0374658476027d9723eeb67a262d0f3c8308/include -g -Wall -Wextra -Wshadow -o CMakeFiles/nlohmann_json_schema_validator.dir/src/smtp-address-validator.cpp.o -c /home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/smtp-address-validator.cpp",
+  "file": "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/smtp-address-validator.cpp"
+},
+{
+  "directory": "/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json_schema_validator-build",
+  "command": "/usr/bin/g++  -I/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src -I/home/meysam/.cache/cpm/nlohmann_json/798e0374658476027d9723eeb67a262d0f3c8308/include -g -Wall -Wextra -Wshadow -o CMakeFiles/nlohmann_json_schema_validator.dir/src/json-schema-draft7.json.cpp.o -c /home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/json-schema-draft7.json.cpp",
+  "file": "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/json-schema-draft7.json.cpp"
+},
+{
+  "directory": "/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json_schema_validator-build",
+  "command": "/usr/bin/g++  -I/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src -I/home/meysam/.cache/cpm/nlohmann_json/798e0374658476027d9723eeb67a262d0f3c8308/include -g -Wall -Wextra -Wshadow -o CMakeFiles/nlohmann_json_schema_validator.dir/src/json-uri.cpp.o -c /home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/json-uri.cpp",
+  "file": "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/json-uri.cpp"
+},
+{
+  "directory": "/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json_schema_validator-build",
+  "command": "/usr/bin/g++  -I/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src -I/home/meysam/.cache/cpm/nlohmann_json/798e0374658476027d9723eeb67a262d0f3c8308/include -g -Wall -Wextra -Wshadow -o CMakeFiles/nlohmann_json_schema_validator.dir/src/json-validator.cpp.o -c /home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/json-validator.cpp",
+  "file": "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/json-validator.cpp"
+},
+{
+  "directory": "/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json_schema_validator-build",
+  "command": "/usr/bin/g++  -I/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src -I/home/meysam/.cache/cpm/nlohmann_json/798e0374658476027d9723eeb67a262d0f3c8308/include -g -Wall -Wextra -Wshadow -o CMakeFiles/nlohmann_json_schema_validator.dir/src/json-patch.cpp.o -c /home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/json-patch.cpp",
+  "file": "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/json-patch.cpp"
+},
+{
+  "directory": "/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json_schema_validator-build",
+  "command": "/usr/bin/g++  -I/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src -I/home/meysam/.cache/cpm/nlohmann_json/798e0374658476027d9723eeb67a262d0f3c8308/include -g -Wall -Wextra -Wshadow -o CMakeFiles/nlohmann_json_schema_validator.dir/src/string-format-check.cpp.o -c /home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/string-format-check.cpp",
+  "file": "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/string-format-check.cpp"
+}
+]

@@ -1,0 +1,174 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "_deps/nlohmann_json_schema_validator-build/libnlohmann_json_schema_validator.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_compile_options",
+			"target_include_directories",
+			"add_subdirectory"
+		],
+		"files" : 
+		[
+			"/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/CMakeLists.txt",
+			"/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 136,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 9,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 147,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wshadow"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/meysam/.cache/cpm/nlohmann_json/798e0374658476027d9723eeb67a262d0f3c8308/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					5,
+					5
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"id" : "nlohmann_json_schema_validator::@637989bb1c515fa0a45b",
+	"name" : "nlohmann_json_schema_validator",
+	"nameOnDisk" : "libnlohmann_json_schema_validator.a",
+	"paths" : 
+	{
+		"build" : "_deps/nlohmann_json_schema_validator-build",
+		"source" : "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/smtp-address-validator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/json-schema-draft7.json.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/json-uri.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/json-validator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/json-patch.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406/src/string-format-check.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/main.dir/main.cpp.o -o main  libjson_process.a _deps/nlohmann_json_schema_validator-build/libnlohmann_json_schema_validator.a 

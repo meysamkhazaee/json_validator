@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/nlohmann_json_schema_validator-build",
+		"source" : "/home/meysam/.cache/cpm/nlohmann_json_schema_validator/c38d81c7533df75c9f7ea3c0343daf8b11960406"
+	}
+}

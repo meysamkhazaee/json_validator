@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjson_process.a CMakeFiles/json_process.dir/json_process.cpp.o
+/usr/bin/ranlib libjson_process.a

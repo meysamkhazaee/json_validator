@@ -1,0 +1,11 @@
+/home/meysam/workspace/codes/personal/json_validator/build/CMakeFiles/json_process.dir
+/home/meysam/workspace/codes/personal/json_validator/build/CMakeFiles/main.dir
+/home/meysam/workspace/codes/personal/json_validator/build/CMakeFiles/edit_cache.dir
+/home/meysam/workspace/codes/personal/json_validator/build/CMakeFiles/rebuild_cache.dir
+/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json-build/CMakeFiles/edit_cache.dir
+/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json-build/CMakeFiles/rebuild_cache.dir
+/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json_schema_validator-build/CMakeFiles/nlohmann_json_schema_validator.dir
+/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json_schema_validator-build/CMakeFiles/edit_cache.dir
+/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json_schema_validator-build/CMakeFiles/rebuild_cache.dir
+/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json_schema_validator-build/src/CMakeFiles/edit_cache.dir
+/home/meysam/workspace/codes/personal/json_validator/build/_deps/nlohmann_json_schema_validator-build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/nlohmann_json-build",
+		"source" : "/home/meysam/.cache/cpm/nlohmann_json/798e0374658476027d9723eeb67a262d0f3c8308"
+	}
+}
